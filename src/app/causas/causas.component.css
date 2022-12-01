@@ -1,0 +1,64 @@
+.lead{
+  text-align: left;
+  margin-left: 50px;
+  font-size: 23px;
+  margin-right: 50px;
+  text-justify: 30px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.block{
+  margin-left: 30px;
+  text-align: left;
+}
+
+.tile{
+  text-align: left;
+  margin-left: 20px;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 40px;
+}
+.mb-0{
+  text-align: center;
+  font-size: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container
+{
+  text-align: center;
+}
+
+.ter{
+  margin-left: 40px;
+  margin-right: 40px;
+}
+
+.human{
+  text-align: left;
+  margin-left: 50px;
+}
+
+.til{
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 23px;
+  text-align: left;
+  margin-left: 35px;
+  margin-right: 40px;
+  text-justify: 10px;
+
+}
+
+.lis{
+  text-align: left;
+  margin-left: 40px;
+  margin-right: 40px;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.container{
+  text-align: left;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 23px;
+  
+}
